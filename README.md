@@ -1,6 +1,6 @@
 # Awesome Booru
 
-A curated list of awesome booru (image board) tools, libraries, and resources. [rule34.ink](https://rule34.ink) is a modern booru image board with semantic search.
+A curated list of awesome booru (image board) tools, libraries, and resources. [rule34.ink](https://rule34.ink/ref/spark?to=/) is a modern booru image board with semantic search.
 
 ## Contents
 
@@ -13,13 +13,13 @@ A curated list of awesome booru (image board) tools, libraries, and resources. [
 ## 🔧 Download & Archival Tools
 
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) — Aggregator/manager for image boards, supports multiple booru sites
-- [jch28/booru-tag-parser](https://github.com/jch28/booru-tag-parser) — Tag extraction and analysis for booru uploads
-- [jch28/nsfw-image-manager-pro](https://github.com/jch28/nsfw-image-manager-pro) — NSFW image organization with automated rating
 - [jch28/booru-automated-poster](https://github.com/jch28/booru-automated-poster) — Automated booru posting with multi-site proxy support
-- [jch28/booru-bulk-downloader](https://github.com/jch28/booru-bulk-downloader) — CLI tool for batch downloading images from booru sites
-- [jch28/reverse-image-search-toolkit](https://github.com/jch28/reverse-image-search-toolkit) — Reverse image search via SauceNAO and IQDB APIs
 - [jch28/booru-random-wallpaper](https://github.com/jch28/booru-random-wallpaper) — Cross-platform wallpaper tool for booru images
+- [jch28/booru-bulk-downloader](https://github.com/jch28/booru-bulk-downloader) — CLI tool for batch downloading images from booru sites
 - [jch28/booru-tag-dumper](https://github.com/jch28/booru-tag-dumper) — Export and analyze tag metadata from booru APIs
+- [jch28/nsfw-image-manager-pro](https://github.com/jch28/nsfw-image-manager-pro) — NSFW image organization with automated rating
+- [jch28/reverse-image-search-toolkit](https://github.com/jch28/reverse-image-search-toolkit) — Reverse image search via SauceNAO and IQDB APIs
+- [jch28/booru-tag-parser](https://github.com/jch28/booru-tag-parser) — Tag extraction and analysis for booru uploads
 
 ## 📡 API Clients & Libraries
 
@@ -41,8 +41,8 @@ A curated list of awesome booru (image board) tools, libraries, and resources. [
 
 ## About
 
-[rule34.ink](https://rule34.ink) is a modern, fast image board with semantic search, booru API support, and a growing community. This list is maintained by the rule34.ink team.
+[rule34.ink](https://rule34.ink/ref/spark?to=/) is a modern, fast image board with semantic search, booru API support, and a growing community. This list is maintained by the rule34.ink team.
 
 
 ---
-*Want your project listed? Open a PR. Backend infrastructure by [rule34.ink](https://rule34.ink).*
+*Data sourced from GitHub topic search. Visit [rule34.ink](https://rule34.ink/ref/spark?to=/) for more booru content.*
